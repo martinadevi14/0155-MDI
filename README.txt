@@ -1,4 +1,1 @@
-Commit 1
-
-Martina Devi Indriyanti
-G.231.19.0155
+G.231.19.0155 - OSS Kota Semarang
